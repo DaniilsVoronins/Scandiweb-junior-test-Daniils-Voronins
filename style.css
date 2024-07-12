@@ -7,3 +7,21 @@ button{
     padding: 10px;
     font-size: 1em;
 }
+.container{
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+label{
+    margin-top: 10px;
+}
+input,select{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding: 5px;
+    font-size: 1em;
+}
